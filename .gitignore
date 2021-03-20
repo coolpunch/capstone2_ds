@@ -1,4 +1,10 @@
 # environment files
-env
+venv/
 # pycharm project files
 .idea
+
+# raw data
+data/raw/
+
+# pycache
+libs/__pycache__/
