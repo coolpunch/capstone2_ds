@@ -6,5 +6,9 @@ venv/
 # raw data
 data/raw/
 
+# clean data containing images
+data/clean/train/
+data/clean/test/
+
 # pycache
 libs/__pycache__/
